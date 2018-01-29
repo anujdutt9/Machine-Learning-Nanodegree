@@ -11,3 +11,8 @@
 **3.** Jupyter Notebook
 
 **4.** Matplotlib
+
+
+| S.No. |     Project Name      |                             About                           |     Status      |
+| ----- | --------------------- | ----------------------------------------------------------- | --------------- |
+| 1.    | Boston Housing Prices | Predict Housing Prices in Boston using Scikit-Learn.        |     Complete    |
