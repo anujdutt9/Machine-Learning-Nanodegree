@@ -6,8 +6,8 @@
 
 **1.** Python 2/3
 
-**2. ** Numpy [+mkl for Windows]
+**2.** Numpy [+mkl for Windows]
 
-**3. ** Jupyter Notebook
+**3.** Jupyter Notebook
 
-**4. ** Matplotlib
+**4.** Matplotlib
