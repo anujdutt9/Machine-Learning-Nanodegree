@@ -15,4 +15,6 @@
 
 | S.No. |     Project Name      |                             About                           |     Status      |
 | ----- | --------------------- | ----------------------------------------------------------- | --------------- |
-| 1.    | Boston Housing Prices | Predict Housing Prices in Boston using Scikit-Learn.        |     Complete    |
+|  1.   | Boston Housing Prices | Predict Housing Prices in Boston using Scikit-Learn.        |     Complete    |
+|  2.   | Finding Donors for Charity | Predict Donors for Charity using Scikit-Learn.         |     Complete    |
+|  3.   | IMDB Sentiment Analysis | Sentiment Analysis for IMDB dataset.                      |     Complete    |  
