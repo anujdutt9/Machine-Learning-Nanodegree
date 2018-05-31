@@ -18,8 +18,8 @@
 
 # Result
 
-<img src="outputs/out1.png" alt="" width="100%">
+<img src="outputs/out1.png" alt="" width="50%">
 
-<img src="outputs/out2.png" alt="" width="100%">
+<img src="outputs/out2.png" alt="" width="50%">
 
-<img src="outputs/out3.png" alt="" width="100%">
+<img src="outputs/out3.png" alt="" width="50%">
