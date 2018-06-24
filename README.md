@@ -23,3 +23,4 @@
 |  6.   | Keras-CNN             | MLP, CNN and Transfer Learning using Keras.                 |     Complete    |
 |  7.   | Unsupervised Learning |Density Based Clustering, Gaussian Mixture Model and Hierarchical Clustering. | Complete  |
 |  8.   | Dog Breed Classifier  | Dog Breed Classification app using Transfer Learning.       |     Completed   |
+|  9.   | Classification        | Intro to Classification, Precision/Recall/F-1 Score/Confusion Matrix. | Completed |
